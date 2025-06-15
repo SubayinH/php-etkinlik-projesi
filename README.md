@@ -27,8 +27,6 @@ Projenin temel amacı, kullanıcıların sisteme üye olup giriş yapabildiği, 
 
 ## Ekran Görüntüleri
 
-Projenizden birkaç ekran görüntüsü alın (Windows'ta `Win + Shift + S` tuşları ile kolayca alabilirsiniz).
-
 **Ana Sayfa (Etkinlik Listesi):**
 
 ![Screenshot 2025-06-15 102912](https://github.com/user-attachments/assets/ce44b3fe-d73d-4e20-b69f-93c4590a2621)
