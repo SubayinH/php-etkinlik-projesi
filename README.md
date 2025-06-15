@@ -40,7 +40,7 @@ Projenin temel amacı, kullanıcıların sisteme üye olup giriş yapabildiği, 
 
 Projenin nasıl çalıştığını gösteren kısa bir tanıtım videosuna aşağıdaki linkten ulaşabilirsiniz:
 
-**[YouTube veya Google Drive Video Linkinizi Buraya Yapıştırın]**
+**https://youtu.be/8Gmf_zioqrQ**
 
 ---
 
@@ -48,4 +48,4 @@ Projenin nasıl çalıştığını gösteren kısa bir tanıtım videosuna aşa�
 
 Projenin canlı demosuna aşağıdaki adresten erişilebilir:
 
-**[Hosting'e Yüklediğiniz Sitenin Linkini Buraya Yapıştırın]**
+**http://95.130.171.20/~st22360859375**
